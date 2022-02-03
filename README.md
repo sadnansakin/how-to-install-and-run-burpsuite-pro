@@ -10,10 +10,10 @@ https://www.upload-4ever.com/oa7umqqncx7m
 
 Kali Linux Only the first time
 
-1- Open Terminal ( Ctrl + Alt + T )
-2- Run ( sudo apt-get purge openjdk-\* )
-3- Run ( sudo apt-get install openjdk-17-jdk )
-4- Run ( chmod +x ./Dr-FarFar.jar )
+1. Open Terminal ( Ctrl + Alt + T )
+2. Run ( sudo apt-get purge openjdk-\* )
+3. Run ( sudo apt-get install openjdk-17-jdk )
+4. Run ( chmod +x ./Dr-FarFar.jar )
 
 When You Run The Burp Just use That Terminal Command
 
