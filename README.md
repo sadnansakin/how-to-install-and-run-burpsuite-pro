@@ -5,6 +5,8 @@ source : https://www.dr-farfar.com/burp-suite-professional-full/
 download burpsuite pro latest from this link:
 https://www.upload-4ever.com/oa7umqqncx7m
 
+my download link : https://drive.google.com/file/d/1mZdlZhIqEh0vjormjK3fxlf-nQRwcous/view?usp=sharing
+
 ### Use Java SE Development Kit 14.x (OR) 15.x (OR) 16.x (OR) 17.x
 ## perform the following command :
 
